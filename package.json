@@ -1,1 +1,12 @@
-{"name":"js-concept-samples","version":"1.0.0","description":"Samples of common JavaScript concepts","main":"index.js","scripts":{},"keywords":["javascript","samples","concepts"],"author":"iamshonima","license":"MIT"}
+{
+  "name": "my-firstrepo",
+  "version": "1.0.0",
+  "description": "This is my first repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
